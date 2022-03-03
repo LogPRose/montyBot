@@ -1,0 +1,16 @@
+{
+  "name": "0.0.0",
+  "version": "1.0.0",
+  "description": "A Twitch Moderator Bot for MontyIRL",
+  "main": "src",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ."
+  },
+  "author": "Logan Rose (Elepyr)",
+  "license": "ISC",
+  "dependencies": {
+    "esm": "^3.2.25",
+    "tmi.js": "^1.8.5"
+  }
+}
